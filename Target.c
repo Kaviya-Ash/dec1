@@ -3,7 +3,7 @@ int main()
 {
     int target,n,pair1,pair2,i;
     printf("Enter the number of list elements : ");
-    scanf("%d",n);
+    scanf("%d",&n);
     int a[n];
     printf("Enter the list elements : [");
     for(i=0;i<n;i++)
